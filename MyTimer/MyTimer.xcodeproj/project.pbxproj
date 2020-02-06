@@ -13,6 +13,7 @@
 		C00BE1E323EC61A000C81BA5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C00BE1E123EC61A000C81BA5 /* Main.storyboard */; };
 		C00BE1E523EC61A400C81BA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C00BE1E423EC61A400C81BA5 /* Assets.xcassets */; };
 		C00BE1E823EC61A400C81BA5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C00BE1E623EC61A400C81BA5 /* LaunchScreen.storyboard */; };
+		C00BE1F223EC695400C81BA5 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00BE1F123EC695400C81BA5 /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C00BE1E423EC61A400C81BA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C00BE1E723EC61A400C81BA5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C00BE1E923EC61A400C81BA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C00BE1F123EC695400C81BA5 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				C00BE1E423EC61A400C81BA5 /* Assets.xcassets */,
 				C00BE1E623EC61A400C81BA5 /* LaunchScreen.storyboard */,
 				C00BE1E923EC61A400C81BA5 /* Info.plist */,
+				C00BE1F123EC695400C81BA5 /* SettingViewController.swift */,
 			);
 			path = MyTimer;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				C00BE1E023EC61A000C81BA5 /* ViewController.swift in Sources */,
 				C00BE1DC23EC61A000C81BA5 /* AppDelegate.swift in Sources */,
 				C00BE1DE23EC61A000C81BA5 /* SceneDelegate.swift in Sources */,
+				C00BE1F223EC695400C81BA5 /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
